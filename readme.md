@@ -9,10 +9,11 @@
 </table>
  </br></br>
  <div align="center">
-  <a href="/problems">
+  <a href="/problems" >
     <img src="https://img.shields.io/badge/CODE-TypeScript-blue?style=for-the-badge&logo=appveyor" alt="Button 1">
 
   </a>
+  
   <a href="/blogs">
     <img src="https://img.shields.io/badge/Blogs-Explore-green?style=for-the-badge&logo=appveyor" alt="Button 2">
   </a>
