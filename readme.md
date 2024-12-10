@@ -1,6 +1,6 @@
 # Hello Dev Bros😎
 
-<table>
+<table align="center">
  <tr>
    <td><img src="https://img.icons8.com/?size=160&id=HcQEdKCkXUs3&format=png" width="100px"></td>
 
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/CODE-TypeScript-blue?style=for-the-badge&logo=appveyor" alt="Button 1">
 
   </a>
-  
+
   <a href="/blogs">
     <img src="https://img.shields.io/badge/Blogs-Explore-green?style=for-the-badge&logo=appveyor" alt="Button 2">
   </a>
