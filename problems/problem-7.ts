@@ -7,12 +7,12 @@ class Car {
     private year: number
   ) {}
 
-  getCarAge() {
+  public getCarAge() {
     const currentYear = new Date().getFullYear();
 
     return currentYear - car.year;
   }
 }
-
+//sample input
 const car = new Car("Honda", "Civic", 2018);
 console.log(car.getCarAge());

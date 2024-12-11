@@ -14,5 +14,6 @@ const updateProfile = (data: Profile, toUpdate: PartialProfile) => {
     ...toUpdate,
   };
 };
+//sample input
 const myProfile = { name: "Alice", age: 25, email: "alice@example.com" };
 console.log(updateProfile(myProfile, { age: 26 }));
